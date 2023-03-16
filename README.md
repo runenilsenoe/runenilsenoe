@@ -7,20 +7,9 @@ I speak fluent 'Microsoft Orleans' and got fullstack experience with my heavywei
 
 - 🥅 2023 Goals:
   - [ ] 📄 Create a website using chatGPT as an experiment
-  - [ ] 💻 Learn Sveltekit
-  - [ ] 🛸 Create at least one new open source project
+  - [ ] 💻 Create at least one new open source project
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-**CONNECT WITH ME**
-
-[<img title="E-Mail" height=50px src="https://mailmeteor.com/logos/assets/SVG/Gmail_Logo.svg" />][mail]
-[<img title="Linkedin" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-<details>
-  <summary>MY STATS</summary>
 
 <div align="center">
 
@@ -28,7 +17,13 @@ I speak fluent 'Microsoft Orleans' and got fullstack experience with my heavywei
 
 
 </div>
-</details>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+**CONNECT WITH ME**
+
+[<img title="E-Mail" height=50px src="https://mailmeteor.com/logos/assets/SVG/Gmail_Logo.svg" />][mail]
+[<img title="Linkedin" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <!-- Socials links -->
 
