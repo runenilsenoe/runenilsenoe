@@ -26,7 +26,7 @@ I speak fluent 'Microsoft Orleans' and got fullstack experience with my heavywei
 
 </div>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+ ![Rune's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=runenilsenoe&theme=radical&layout=compact)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
