@@ -2,10 +2,10 @@
 # Hi there, I'm Rune 👋
 
 <p align="center">
-    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/runenilsenoe/runenilsenoe?color=blue"></a>
-    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/runenilsenoe/runenilsenoe.svg?logo=github"></a>
-    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/runenilsenoe/runenilsenoe.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/runenilsenoe/runenilsenoe"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/runenilsenoe/runenilsenoe/graphs/contributors"><img src="https://img.shields.io/github/contributors/runenilsenoe/runenilsenoe?color=blue"></a>
+    <a href="https://github.com/runenilsenoe/runenilsenoe/stargazers"><img src="https://img.shields.io/github/stars/runenilsenoe/runenilsenoe.svg?logo=github"></a>
+    <a href="https://github.com/runenilsenoe/runenilsenoe/network/members"><img src="https://img.shields.io/github/forks/runenilsenoe/runenilsenoe.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=runenilsenoe.runenilsenoe" alt="visitors"/>   
 </p>
 
