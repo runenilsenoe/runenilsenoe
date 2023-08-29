@@ -1,3 +1,4 @@
+![](assets/Bottom_up.svg)
 # Hi there, I'm Rune 👋
 
 **ABOUT ME**
