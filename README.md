@@ -14,9 +14,6 @@
 I'm a Software Advisor and Developer
 I speak fluent 'Microsoft Orleans' and got fullstack experience with my heavyweight on backend. 
 
-- 🥅 2024 Goals:
-  - [ ] 📄 Create a website using chatGPT wrapper as an experiment
-  - [ ] 💻 Create at least one new open source project
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
